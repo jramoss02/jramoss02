@@ -30,6 +30,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin](https://img.shields.io/badge/-José%20Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-roberto-ramos/)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-José%20Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-roberto-ramos/)](https://www.linkedin.com/in/josé-roberto-ramos)
 [![Gmail Badge](https://img.shields.io/badge/-02.jrsramos%40gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:02.jrsramos@gmail.com)](mailto:02.jrsramos@gmail.com)
 [![GitHub]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/jramoss02)
