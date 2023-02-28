@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Systems Analyst at <a href="https://facens.br/">FACENS</a>.
+- 🎓 &nbsp; Studying Computer Systems Analysis at <a href="https://facens.br/">FACENS</a>.
 - 💼 &nbsp; Working as a computer intern at <a href="https://wvetro.com.br">Wvetro</a>.
 - 🌱 &nbsp; Continuously acquiring knowledge about the prevailing technologies in the market.
 - ✍️ &nbsp; My skills in React, HTML, and CSS are at an intermediate level.
