@@ -3,8 +3,8 @@
 
 
 - 🤔 &nbsp; Aprendendo e desenvolvendo projetos voltados para a área de **FRONT-END**.
-- 🎓 &nbsp; Estudando **Analise e desenvolvimento de sistemas** na <a href="link da sua faculdade">FACENS</a>.
-- 💼 &nbsp; Trabalhando como **Estagiário front-end** na <a href="wvetro.com.br">Wvetro</a>
+- 🎓 &nbsp; Estudando **Analise e desenvolvimento de sistemas** na <a href="https://facens.br/">FACENS</a>.
+- 💼 &nbsp; Trabalhando como **Estagiário front-end** na <a href="https://wvetro.com.br">Wvetro</a>
 - 🌱 &nbsp; Aprendendo mais sobre **REACT, HTML e CSS**.
 
 
