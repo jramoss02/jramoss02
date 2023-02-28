@@ -1,35 +1,50 @@
-<h3> 🚀 &nbsp;Sobre mim </h3>
+<h2> Hey there! I'm José.</h2>
 
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Systems Analyst at <a href="https://facens.br/">FACENS</a>.
+- 💼 &nbsp; Working as a computer intern at <a href="https://wvetro.com.br">Wvetro</a>.
+- 🌱 &nbsp; Continuously acquiring knowledge about the prevailing technologies in the market.
+- ✍️ &nbsp; My skills in React, HTML, and CSS are at an intermediate level.
+- 🎨 &nbsp; I do some art for fun.
 
-- 🤔 &nbsp; Aprendendo e desenvolvendo projetos voltados para a área de **FRONT-END**.
-- 🎓 &nbsp; Estudando **Analise e desenvolvimento de sistemas** na <a href="https://facens.br/">FACENS</a>.
-- 💼 &nbsp; Trabalhando como **Estagiário front-end** na <a href="https://wvetro.com.br">Wvetro</a>
-- 🌱 &nbsp; Aprendendo mais sobre **REACT, HTML e CSS**.
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-
-
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
-**Aplicações e Dados**
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+- 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  
-**Ferramentas de Desenvolvimento**
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=mysql)
+- ⚙️ &nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+<br/>
 
-[![GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=jramoss02&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jramoss02&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramoss02&theme=buefy&layout=compact" />
+</a>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<br/>
 
-[![Linkedin](https://img.shields.io/badge/-José%20Ramos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josé-roberto-ramos/)](https://www.linkedin.com/in/josé-roberto-ramos)
-[![Gmail Badge](https://img.shields.io/badge/-02.jrsramos%40gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:02.jrsramos@gmail.com)](mailto:02.jrsramos@gmail.com)
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/josé-roberto-ramos"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jos%C3%A9%20Ramos-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/jramoss._/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jramoss.__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:02.jrsramos@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-02.jrsramos@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
