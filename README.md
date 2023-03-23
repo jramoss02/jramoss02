@@ -31,14 +31,16 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-
 <br/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jramoss02&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jramoss02&layout=compact&langs_count=8&theme=buefy" />
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jramoss02&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jramoss02&layout=compact&langs_count=8&theme=buefy"/>
+</p>
 
 <br/>
-
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
