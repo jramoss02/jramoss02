@@ -34,10 +34,8 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jramoss02&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jramoss02&theme=buefy&layout=compact" />
-</a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jramoss02&show_icons=true&theme=buefy&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jramoss02&layout=compact&langs_count=8&theme=buefy" />
 
 <br/>
 
