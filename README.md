@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Systems Analysis at <a href="https://facens.br/">FACENS</a>.
-- 🌱 &nbsp; Continuously acquiring knowledge about the prevailing technologies on market.
-- ✍️ &nbsp; My skills in React, HTML, and CSS are at an intermediate level.
-- 🎨 &nbsp; I do some art for fun.
+- 🎓 &nbsp; Graduated in Computer Systems Analysis from <a href="https://facens.br/">FACENS</a>.
+- 🌱 &nbsp; Continuously acquiring knowledge of the latest market technologies.
+- ✍️ &nbsp; My React, HTML, and CSS skills are at an intermediate level.
+- 🎨 &nbsp; I create art for fun.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
