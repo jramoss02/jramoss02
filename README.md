@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Graduated in Computer Systems Analysis from <a href="https://facens.br/">FACENS</a>.
 - 🌱 &nbsp; Continuously acquiring knowledge of the latest market technologies.
-- ✍️ &nbsp; My React, HTML, and CSS skills are at an intermediate level.
+- ✍️ &nbsp; My Javascript, Python, and mySQL skills are at an intermediate level.
 - 🎨 &nbsp; I create art for fun.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
